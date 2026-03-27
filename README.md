@@ -4,6 +4,7 @@ A complete end-to-end Machine Learning and Business Intelligence system built wi
 ---
 
 ## 📁 SAMPLES 
+
 <img width="1920" height="1008" alt="Screenshot 2026-03-27 161546" src="https://github.com/user-attachments/assets/c981e081-9a10-4349-b782-3164f9d545b3" />
 
 <img width="1920" height="1008" alt="Screenshot 2026-03-27 161654" src="https://github.com/user-attachments/assets/7745b97f-ba6d-440c-b22c-b817a8798bb8" />
@@ -15,8 +16,8 @@ A complete end-to-end Machine Learning and Business Intelligence system built wi
 <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/c5b1a08d-62a8-4052-961c-bc60d160e48c" />
 
 
-```
----
+
+
 
 ## 📁 Project Structure
 
